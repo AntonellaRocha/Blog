@@ -1,0 +1,102 @@
+body{
+    height: 400px;
+    background-image: url("fondo-galaxia-degradado_23-2148982723.webp");
+    background-size:cover;
+}
+
+p{
+    color:antiquewhite;
+}
+
+li{
+    color:beige;
+}
+
+
+.introduccion{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#333333;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#FFD27D;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+.proyectos{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#333333;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#FFD27D;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+.hobbies{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#333333;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#FFD27D;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+.contacto{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#333333;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#FFD27D;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+h1 {
+    background-color: lightcoral;
+    padding: 10px;
+    text-align: center;
+  }
+
+h2{
+    background-color:lightcoral;
+    padding: 10px;
+    text-align: left;
+}
+
+h3{
+    background-color: lightcoral;
+    padding: 10px;
+    text-align:left
+}
+
+h4{
+    background-color: lightcoral;
+    padding:10px;
+    text-align: left;
+}
